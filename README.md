@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mateus Takashi Kochi</h1>
-<h3 align="center">A passionate Cloud/DevOps student from Brazil</h3>
+<h3 align="center">A passionate Data Engineer from Brazil</h3>
 
 
 
-- 🌱 I’m currently learning **DevOps tecnologies**
+- 🌱 I’m currently learning **Data Engineer tecnologies**
 
-- 👯 I’m looking to collaborate on **DevOps projects**
+- 👯 I’m looking to collaborate on **Data Engineer projects**
 
-- 🤝 I’m looking for help with **DevOps related projects**
+- 🤝 I’m looking for help with **Data Engineer related projects**
 
-- 💬 Ask me about **OS(Linux), Containers(Docker and Kubernetes), IaC(Terraform) and Cloud(AWS and Google))**
+- 💬 Ask me about **Python, SQL, ETL and Cloud(AWS and Google))**
 
 - 📫 How to reach me **mateus.kochi@hotmail.com**
 
